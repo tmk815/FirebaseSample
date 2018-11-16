@@ -1,0 +1,2 @@
+# FirebaseSample
+AndroidStudioからKotlinでFirebase(RealtimeDatabase)を使う
